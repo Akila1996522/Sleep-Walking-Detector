@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501466367083-s9qts77ii4nrurbl1ef06q4grhqh27s0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501466367083-s9qts77ii4nrurbl1ef06q4grhqh27s0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLhkah36osxv1mL7z5Abue_T5tnztGrm4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501466367083</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sleepWalkingDetector.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>sleepwalking-2d585</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sleepwalking-2d585.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501466367083:ios:dd0784442121be348a1d2e</string>
+	<key>DATABASE_URL</key>
+	<string>https://sleepwalking-2d585-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
