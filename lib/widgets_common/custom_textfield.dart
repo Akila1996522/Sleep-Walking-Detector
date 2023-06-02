@@ -1,4 +1,3 @@
-import 'package:sleep_walking_detector/consts/colors.dart';
 import 'package:sleep_walking_detector/consts/consts.dart';
 
 Widget customTextField({String? title, String? hint, controller}) {

@@ -22,3 +22,6 @@ const home = "Home", categories = "", cart = "", account = "";
 
 // home screen strings
 const temperature = "Temperature", spo2 = "SpO2", bpm = "BPM";
+
+// Profile screen strings
+const tProfile = "Profile", editProfile = "Edit Profile";

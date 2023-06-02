@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sleep_walking_detector/consts/consts.dart';
 import 'package:sleep_walking_detector/consts/lists.dart';
@@ -7,7 +6,6 @@ import 'package:sleep_walking_detector/views/home_screen/home.dart';
 import 'package:sleep_walking_detector/widgets_common/our_button.dart';
 import 'package:sleep_walking_detector/widgets_common/applogo_widget.dart';
 import 'package:sleep_walking_detector/widgets_common/bg_widget.dart';
-import 'package:sleep_walking_detector/consts/strings.dart';
 import 'package:sleep_walking_detector/widgets_common/custom_textfield.dart';
 
 class LoginScreen extends StatelessWidget {

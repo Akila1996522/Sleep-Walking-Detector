@@ -40,6 +40,7 @@ dependencies:
   get: ^4.6.5
   firebase_core: ^2.13.0
   flutter_screenutil: ^5.8.2
+  line_awesome_flutter: ^2.0.0
 
 dev_dependencies:
   flutter_test:
@@ -67,6 +68,7 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

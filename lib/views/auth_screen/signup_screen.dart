@@ -1,6 +1,5 @@
 import 'package:get/get.dart';
 import 'package:sleep_walking_detector/consts/consts.dart';
-import 'package:flutter/material.dart';
 
 // import '../../consts/lists.dart';
 import '../../widgets_common/applogo_widget.dart';
